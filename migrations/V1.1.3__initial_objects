@@ -1,1 +1,1 @@
-alter table DM_PROCESSED.HELLO_WORLD modify age float
+alter table DM_PROCESSED.HELLO_WORLD drop age integer
