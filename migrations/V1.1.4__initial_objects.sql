@@ -1,0 +1,1 @@
+alter table DM_PROCESSED.HELLO_WORLD drop age
